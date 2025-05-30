@@ -21,3 +21,7 @@ Pedro Lima da Silva Junior 10729027
 
 
 /docs: Documentação do projeto.
+
+# Vídeo de Apresentação
+
+https://www.youtube.com/watch?v=77jBoAWXVzo
